@@ -41,7 +41,7 @@
     "nodemon": "^2.0.20",
     "redux": "^4.2.0",
     "relative-time": "^1.0.0",
-    "sequelize": "^6.28.0",
+    "sequelize": "^6.37.3",
     "speakeasy": "^2.0.0",
     "uuid": "^9.0.0"
   }
